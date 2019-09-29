@@ -9,3 +9,4 @@ sklearn
 matplotlib
 manage
 test
+gunicorn
