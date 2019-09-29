@@ -1,1 +1,1 @@
-web: python detector.py
+web: python app.py
